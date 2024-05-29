@@ -88,3 +88,11 @@ div.signs > button {
     border: 0px solid rgb(155, 155, 155);
     margin: 1px;
 }
+
+div.screen {
+    color: white;
+    font-size: 50px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
